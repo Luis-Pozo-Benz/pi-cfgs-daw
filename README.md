@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" width="500"/>
+
 
 ### Repositorio de reunión de la documentación de Platinum
 
@@ -38,6 +40,9 @@ El objetivo de este repositorio es recoger toda la documentación realizada para
 
 👤 **Autor:** Luis Daniel Pozo Benz
 
+<br>
+
+<a href="https://github.com/Kiro85/entregables-projecte-final-dawpi2526_platinum_src">🔗Repositorio del código</a>
 ---
 
 </div>
